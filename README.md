@@ -1,4 +1,4 @@
-# Drawing Pad Project
+# Drawing Pad Project.
 
 This project is a simple drawing pad implemented using SDL2. Users can draw on the screen using the mouse and reset the canvas by pressing the **'R'** key.
 
